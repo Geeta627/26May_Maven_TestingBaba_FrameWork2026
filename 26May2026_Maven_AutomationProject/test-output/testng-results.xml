@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-05-27T12:41:13 IST" name="Suite" finished-at="2026-05-27T12:41:24 IST" duration-ms="10798">
+    <groups>
+    </groups>
+    <test started-at="2026-05-27T12:41:13 IST" name="Test" finished-at="2026-05-27T12:41:24 IST" duration-ms="10798">
+      <class name="testpackage.TC01_LoginTest">
+        <test-method is-config="true" signature="getLaunchurl()[pri:0, instance:testpackage.TC01_LoginTest@6743e411]" started-at="2026-05-27T12:41:13 IST" name="getLaunchurl" finished-at="2026-05-27T12:41:22 IST" duration-ms="9366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLaunchurl -->
+        <test-method signature="getLogin()[pri:0, instance:testpackage.TC01_LoginTest@6743e411]" started-at="2026-05-27T12:41:22 IST" name="getLogin" finished-at="2026-05-27T12:41:22 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLogin -->
+        <test-method signature="getVerifyTitle()[pri:1, instance:testpackage.TC01_LoginTest@6743e411]" started-at="2026-05-27T12:41:22 IST" name="getVerifyTitle" finished-at="2026-05-27T12:41:22 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getVerifyTitle -->
+        <test-method is-config="true" signature="teamDown()[pri:0, instance:testpackage.TC01_LoginTest@6743e411]" started-at="2026-05-27T12:41:22 IST" name="teamDown" finished-at="2026-05-27T12:41:24 IST" duration-ms="1262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teamDown -->
+      </class> <!-- testpackage.TC01_LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
