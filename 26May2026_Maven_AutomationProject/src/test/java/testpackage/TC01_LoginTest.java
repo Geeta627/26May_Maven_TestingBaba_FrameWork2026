@@ -17,13 +17,13 @@ public class TC01_LoginTest extends BaseLibirary
 		ob=new LoginPage();
 		
 	}
-	@Test(priority = 0)
+	@Test(priority = 1)
 	public void getLogin()
 	{
 		ob.findTitle();
 	}
-	@Test(priority = 1)
-	public void getVerifyTitle()
+	@Test(priority = 2)
+	public void getVarifyTitle()
 	{
 		ob.verifyTitle();
 	}

@@ -6,8 +6,8 @@
       <class name="testpackage.TC01_LoginTest">
         <methods>
           <include name="getLaunchurl"/>
+          <include name="getVarifyTitle"/>
           <include name="teamDown"/>
-          <include name="getVerifyTitle"/>
         </methods>
       </class> <!-- testpackage.TC01_LoginTest -->
     </classes>
