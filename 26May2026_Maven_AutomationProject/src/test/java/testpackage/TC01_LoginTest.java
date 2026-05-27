@@ -21,8 +21,14 @@ public class TC01_LoginTest extends BaseLibirary
 	public void getLogin()
 	{
 		ob.findTitle();
+		
 	}
-	@Test(priority = 2)
+	@Test(priority=2)
+	public void getverifyUrl()
+	{
+		ob.verifyUrl();
+	}
+	@Test(priority = 3)
 	public void getVarifyTitle()
 	{
 		ob.verifyTitle();
